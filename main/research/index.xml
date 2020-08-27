@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research on Website of PengMLi</title>
+    <link>https://PengMLi.github.io/main/research/</link>
+    <description>Recent content in research on Website of PengMLi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://PengMLi.github.io/main/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>data center </title>
+      <link>https://PengMLi.github.io/main/research/data-center/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://PengMLi.github.io/main/research/data-center/</guid>
+      <description>conference
+ article</description>
+    </item>
+    
+    <item>
+      <title>edge computing </title>
+      <link>https://PengMLi.github.io/main/research/edge-computing/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://PengMLi.github.io/main/research/edge-computing/</guid>
+      <description>conference
+ article</description>
+    </item>
+    
+  </channel>
+</rss>
